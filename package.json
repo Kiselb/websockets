@@ -1,0 +1,19 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "Настоящий проект является учебным - решение домашнего задания по теме **Real-Time Web Приложения с сокетами**\r в рамках курса **Разрабочик Node.js** образовательной компании [OTUS](https://otus.ru/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiselb/websockets.git"
+  },
+  "author": "Mikhail V. Kiselev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiselb/websockets/issues"
+  },
+  "homepage": "https://github.com/Kiselb/websockets#readme"
+}
